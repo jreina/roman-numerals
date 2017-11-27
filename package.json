@@ -1,0 +1,14 @@
+{
+  "name": "roman-numerals",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Johnny Reina",
+  "license": "MIT",
+  "dependencies": {
+    "mocha": "^4.0.1"
+  }
+}
