@@ -1,5 +1,5 @@
 const { expect } = (chai = require("chai"));
-const converter = require("../hindu-arabic-to-roman.js");
+const converter = require("../index.js").toRoman;
 
 describe("hindu-arabic-to-roman", function() {
   describe("convert", function() {
