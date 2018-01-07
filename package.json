@@ -4,12 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": ".\\node_modules\\.bin\\mocha"
   },
   "author": "Johnny Reina",
   "license": "MIT",
-  "dependencies": {
+  "devDependencies": {
     "chai": "^4.1.2",
     "mocha": "^4.0.1"
-  }
+  },
+  "dependencies": {}
 }
